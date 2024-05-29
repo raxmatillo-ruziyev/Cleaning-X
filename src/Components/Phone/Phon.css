@@ -1,0 +1,21 @@
+.phone{
+    margin-bottom:20px ;
+    display: flex;
+    align-items: center;
+    margin-right:  20px;
+    
+}
+.phoneImg{
+    margin-top: 25px;
+}
+.phoneTitle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.PhoneSubtitle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 600;
+}

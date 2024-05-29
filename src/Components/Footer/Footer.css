@@ -1,0 +1,75 @@
+.footer{
+    width: 1200px;
+    margin: 0 auto;
+}
+.footerList{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    list-style: none;
+}
+.footerItem{
+    width: 300px;
+    padding: 10px;
+}
+.footerTitle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    width: 250px;
+}
+.footerText{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0;
+    width: 280px;
+    line-height: 30px;
+}
+.footerSubText{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0;
+    width: 650px;
+    line-height: 30px;
+}
+.footerBox{
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+}
+.footerSubtitle{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+.footerLink{
+    text-decoration: none;
+    color: #0075FF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.footerBtn{
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background: blue;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 7px;
+    border: 1px solid blue;
+}
+.footerBtn:hover{
+    background: transparent;
+    border: 1px solid blue;
+    color: blue;
+}
+.footerWrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    color: #0075FF;
+}
