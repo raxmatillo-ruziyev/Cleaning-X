@@ -82,15 +82,18 @@ padding-top: 30px;
 }
 input{
     margin: 15px 0;
-    padding:25px 0;
+    width: 190px;
+    height: 60px;
     border-radius: 10px;
     border: 1px solid rgb(122, 118, 118);
-    font-size: 18px;
+    font-size: 20px;
 }
 .input{
-    margin-left: 23px;
-    padding:55px 95px;
-    font-size: 18px;
+    margin-left: 6%;
+    margin-right: 50%;
+    font-size: 25px;
+    width: 480px;
+    height: 150px;
 }
 .contactBtn{
     margin-left: 25px;
